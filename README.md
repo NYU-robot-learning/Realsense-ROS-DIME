@@ -1,5 +1,5 @@
 # ROS Wrapper for Intel&reg; RealSense&trade; Devices - DIME
-This repository contains a modified version of the [Intel's realsense-ros] repository, which is part of the official implementation of [DIME](https://arxiv.org/abs/2203.13251).
+This repository contains a modified version of the [Intel's realsense-ros] repository, which is part of the official implementation of [DIME](https://arxiv.org/abs/2203.13251). The base repo containing all the information can be found at [DIME - Models](https://github.com/NYU-robot-learning/DIME-Models).
 
 ## Installation Instructions
 Install [ROS Noetic](http://wiki.ros.org/noetic/Installation/Ubuntu) and then make the binaries using `catkin_make` command.
